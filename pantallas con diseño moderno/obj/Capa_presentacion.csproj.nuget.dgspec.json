@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\pantallas con diseño moderno\\Capa_presentacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_AccesoDatos\\Capa_AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_AccesoDatos\\Capa_AccesoDatos.csproj",
+        "projectName": "Capa_AccesoDatos",
+        "projectPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_AccesoDatos\\Capa_AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj",
+        "projectName": "Capa_LogicaDeNegocios",
+        "projectPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_LogicaDeNegocios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_AccesoDatos\\Capa_AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_AccesoDatos\\Capa_AccesoDatos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\pantallas con diseño moderno\\Capa_presentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\pantallas con diseño moderno\\Capa_presentacion.csproj",
+        "projectName": "Capa_presentacion",
+        "projectPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\pantallas con diseño moderno\\Capa_presentacion.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\pantallas con diseño moderno\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj": {
+                "projectPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Software\\Facturacion_Capas_Diseno_Moderno\\Capa_LogicaDeNegocios\\Capa_LogicaDeNegocios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.2739.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

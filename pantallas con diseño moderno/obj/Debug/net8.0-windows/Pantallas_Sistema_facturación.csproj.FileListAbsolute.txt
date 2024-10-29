@@ -1,0 +1,261 @@
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.exe
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.deps.json
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.runtimeconfig.json
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.pdb
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.AssemblyReference.cache
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmlogin.resources
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.Properties.Resources.resources
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.GenerateResource.cache
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.AssemblyInfoInputs.cache
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.AssemblyInfo.cs
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.CoreCompileInputs.cache
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.CopyComplete
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\refint\Pantallas_Sistema_facturación.dll
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.pdb
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.genruntimeconfig.cache
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\ref\Pantallas_Sistema_facturación.dll
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmPrincipal.resources
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.sourcelink.json
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.FrmClientes.resources
+C:\Users\yurim\OneDrive\Documents\Universidad\SEMESTRE 4\HERR DE PROGRAMACION III\pantallas modernas\pantallas con diseño moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmDemo.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.exe
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.deps.json
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.runtimeconfig.json
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.pdb
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.FrmClientes.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmDemo.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmlogin.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmPrincipal.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.Properties.Resources.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.GenerateResource.cache
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.sourcelink.json
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantalla.9BFB567A.Up2Date
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\refint\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.pdb
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\ref\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmProductos.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmProductos2.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmClientesD2.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmProductosD2.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmCategoriasD2.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmFacturasD2.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmEmpleadosD2.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmRolesD2.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmAyudaD2.resources
+C:\Users\willi\OneDrive\Escritorio\cloneMelissa\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmInformesD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.exe
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.deps.json
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.runtimeconfig.json
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.pdb
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmAyudaD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmCategoriasD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmClientesD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmEmpleadosD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmFacturasD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmInformesD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmlogin.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmPrincipal.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmProductosD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmRolesD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.Properties.Resources.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.GenerateResource.cache
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.sourcelink.json
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantalla.9BFB567A.Up2Date
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\refint\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.pdb
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\ref\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\AEAE2_Melissa_Mora\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmSeguridadD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.exe
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll.config
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.deps.json
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.runtimeconfig.json
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.pdb
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\bin\Debug\net8.0-windows\es\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmAyudaD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmCategoriasD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmClientesD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmEmpleadosD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmFacturasD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmInformesD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmlogin.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmPrincipal.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmProductosD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmRolesD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmSeguridadD2.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.Properties.Resources.resources
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.GenerateResource.cache
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.sourcelink.json
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantalla.9BFB567A.Up2Date
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\refint\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.pdb
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\ref\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\AEAE2_Melissa_Mora\A2_MM\Facturacion-C-\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.InterfazDiseño.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.exe
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll.config
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.deps.json
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.runtimeconfig.json
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Pantallas_Sistema_facturación.pdb
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\bin\Debug\net8.0-windows\es\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmAyudaD2.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmCategoriasD2.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmClientesD2.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmEmpleadosD2.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmFacturasD2.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmInformesD2.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmlogin.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmPrincipal.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmProductosD2.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmRolesD2.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.frmSeguridadD2.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.InterfazDiseño.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\pantallas_con_diseño_moderno.Properties.Resources.resources
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.GenerateResource.cache
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.sourcelink.json
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantalla.9BFB567A.Up2Date
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\refint\Pantallas_Sistema_facturación.dll
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.pdb
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\Pantallas_Sistema_facturación.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Escritorio\Facturacion_Capas_Diseno_Moderno\pantallas con diseño moderno\obj\Debug\net8.0-windows\ref\Pantallas_Sistema_facturación.dll
